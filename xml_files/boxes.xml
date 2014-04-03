@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+	<item name="MY RESUME" img="images/boxes/1.jpg" src="content_page.swf" xml_file="xml_files/pages_xmls/our_documents.xml"/>
+	<item name="DYNAMIC SITES PORTFOLIO IN WEB WORK" img="images/boxes/2.jpg" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/dynamic_sites.xml"/>
+	<item name="OUR CLIENTS" img="images/boxes/3.jpg" src="content_page.swf" xml_file="xml_files/pages_xmls/web.xml"/>
+	<item name="OUR SERVICES" img="images/boxes/4.jpg" src="content_page.swf" xml_file="xml_files/pages_xmls/web_design.xml"/>
+	<item name="OUR ADVISES" img="images/boxes/5.jpg" src="content_page.swf" xml_file="xml_files/pages_xmls/our_advises.xml"/>
+	<item name="OUR PHOTOS" img="images/boxes/6.jpg" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/photo_gallery.xml"/>
+	<item name="OUR VIDEOS" img="images/boxes/7.jpg" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/video_gallery.xml"/>
+</menus>

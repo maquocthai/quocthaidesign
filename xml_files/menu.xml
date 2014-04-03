@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+<item name="HOME PAGE" src="homepage"/>
+
+<!--
+<item name="ABOUT US">
+	<item name="OUR COMPANY" src="content_page.swf" xml_file="xml_files/pages_xmls/our_company.xml"/>
+	<item name="OUR DOCUMENTS" src="content_page.swf" xml_file="xml_files/pages_xmls/our_documents.xml"/>
+	<item name="OUR ADVISES" src="content_page.swf" xml_file="xml_files/pages_xmls/our_advises.xml"/>
+	<item name="OUR TEAM" src="our_team_page.swf" xml_file="xml_files/pages_xmls/our_team.xml"/>
+	<item name="OUR STAFF" src="content_page.swf" xml_file="xml_files/pages_xmls/our_staff.xml"/>
+	<item name="OUR CLIENTS">
+
+		<item name="WEB CLIENTS">
+			<item name="WEB" src="content_page.swf" xml_file="xml_files/pages_xmls/web.xml"/>
+			<item name="GRAPHIC" src="content_page.swf" xml_file="xml_files/pages_xmls/graphic.xml"/>
+			<item name="INTERACTIVE" src="content_page.swf" xml_file="xml_files/pages_xmls/interactive.xml"/>
+			<item name="OLD CLIENTS" src="content_page.swf" xml_file="xml_files/pages_xmls/old_clients.xml"/>
+		</item>
+
+		<item name="MY FRIENDS" src="content_page.swf" xml_file="xml_files/pages_xmls/my_friends.xml"/>
+		<item name="PROGRAMMERS" src="content_page.swf" xml_file="xml_files/pages_xmls/programmers.xml"/>
+
+	</item>
+	<item name="OUR NEWS" src="our_news_page.swf" xml_file="xml_files/pages_xmls/our_news.xml"/>
+
+</item>
+
+
+<item name="COMPANY DOCUMENTS" src="content_page.swf" xml_file="xml_files/pages_xmls/company_documents.xml"/>
+
+<item name="OUR SERVICES">
+	<item name="WEB DESIGN" src="content_page.swf" xml_file="xml_files/pages_xmls/web_design.xml"/>
+	<item name="GRAPHIC DESIGN" src="content_page.swf" xml_file="xml_files/pages_xmls/graphic_design.xml"/>
+	<item name="INTERACTIVE CD" src="content_page.swf" xml_file="xml_files/pages_xmls/interactive_cd.xml"/>
+	<item name="PRINT WORK" src="content_page.swf" xml_file="xml_files/pages_xmls/print_work.xml"/>
+	<item name="YOUR OWN SWF" src="external_page.swf"/>
+</item>-->
+
+<item name="OUR PORTFOLIO">
+
+	<item name="WEB WORKS">
+		<item name="DYNAMIC SITES" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/dynamic_sites.xml"/>
+		<!--<item name="FLAHS SITES" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/flash_sites.xml"/>
+		<item name="FLASH COMPONENTS" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/flash_components.xml"/>
+		-->
+		<item name="WEB GRAPHIC" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/web_graphic.xml"/>
+		
+	</item>
+
+	<item name="PRINT WORKS">
+		<item name="BROCHURE" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/prochure.xml"/>
+		<item name="CARDS" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/cards.xml"/>
+		<item name="EVENTS" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/event.xml"/>
+	<item name="DESIGN" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/design.xml"/>
+	</item>
+	<item name="SHOW WORKS">
+		<item name="POWERPOINT" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/powepoint.xml"/>
+		<item name="ANIMATION ON WEB" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/animation.xml"/>
+	</item>
+
+	<item name="VIDEO WORKS">
+		<item name="INTROS" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/videos.xml"/>
+	</item>	
+
+	<item name="YOUR OWN SWF" src="external_page.swf"/>
+
+</item>
+
+<!--<item name="PHOTO GALLERY" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/photo_gallery.xml"/>
+
+<item name="VIDEO GALLERY" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/video_gallery.xml"/> -->
+
+<item name="BLA BLA BLA FD GALLERY" src="gallery_page.swf" xml_file="xml_files/gallery_xmls/video_photo_gallery.xml"/>
+
+<item name="CONTACT US" src="contact_page.swf" xml_file="xml_files/contact.xml"/>
+</menus>

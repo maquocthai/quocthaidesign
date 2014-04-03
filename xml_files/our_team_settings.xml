@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings
+	view="horizontal"
+	box_width="190"
+	box_height="350"
+	box_border="5"
+
+	image_box_padding_top = "100"
+	image_box_width = "125"
+	image_box_height = "150"
+	
+	read_text = "READ MORE »"
+	link_text = "LIVE PREVIEW »"
+
+
+	itemLimit = "4"
+	itemPadding = "5"
+	arrowPadding = "50"
+	blurRadio = "100"
+
+	dropShadowAlpha = "20"
+
+	details_width = "775"
+	details_height = "350"
+	details_border = "5"
+	details_image_top = "75"
+>
+</settings>

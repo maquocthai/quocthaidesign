@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<logo src="ologo.swf" movieClip="logoHolder" loaderMessage="Loading Logo..." enable="true"/>
+	<background src="background.swf" movieClip="bgHolder" loaderMessage="Loading Background..." enable="true"/>
+	<menu src="menu.swf" movieClip="menuHolder" loaderMessage="Loading Menus..." enable="true"/>
+	<banner src="banner.swf" movieClip="bannerHolder" loaderMessage="Loading Banner Rotator..."  enable="true"/>
+	<boxes src="boxes.swf" movieClip="boxesHolder" loaderMessage="Loading Boxes..." enable="true"/>
+	<icons src="icons.swf" movieClip="iconsHolder" loaderMessage="Loading Icons..." enable="true"/>
+	<companies src="copyright.swf" movieClip="copyrightHolder" loaderMessage="Loading Copyright..." enable="true"/>
+</config>
+
+<videoPlayer>
+	<set videoWidth="600" videoHeight="430" autoStart="false" hiddenTime="5600" startVolume="100" videoBufferTime="3"/>
+</videoPlayer>
+
+<copyright>
+	<![CDATA[ (A) 169/7 GIA PHU STREETS, WARD 1, DISTRICT 6, HCMC. COUNTRY: VIETNAM<br>(B) 184/22/7A LE DINH CAN STREETS, WARD AN LAC, DISTRICT BINH TAN, HCMC. COUNTRY: VIETNAM <br>(TEL) (84)376.258.98 - MOBIFONE (084).090 66 777 98   EMAIL: <a href="mailto:maquocthai@gmail.com"> maquocthai@gmail.com</font><br>Copyright � 2010 <a href="http://cid-aa890e7339500c7c.profile.live.com/" target="_blank">MAQUOCTHAI</font>]]>
+</copyright>
+
+<sound>
+	<mp3 src="mp3/1.mp3" volume="100" autoStart="on"/>
+</sound>
+
+<banner>
+	<config slide="on" slideDelayTime="200"/>
+</banner>

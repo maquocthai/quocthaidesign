@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+	<category title="OUR FLASH SITES">
+		
+		<!--<item name="BRANDPOWERVIETNAM.COM" src="images/dynamic_site/b1.jpg" thumb="images/dynamic_site/1.jpg"><![CDATA["BRANDPOWERVIETNAM.COM designed by CMS. This is a website made from start to finish . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > Layout HTML + CSS > Programming by XSL, XML by CMS . You can to see</a></font>"]]></item>-->
+		
+		<item name="DU HOC AN DO - VERSION OLD" src="images/dynamic_site/b2.jpg" thumb="images/dynamic_site/2.jpg"><![CDATA[<font color="#ed0049"><a href="http://www.duhocando.net" target="_blank">http://www.duhocando.net designed by CMS. This is a website made from start to finish . </a></font>]]></item>
+		
+		<item name="VALUEMD.COM NEWSLETTER" src="images/dynamic_site/b3.jpg" thumb="images/dynamic_site/3.jpg"><![CDATA[Design NEWSLETTER for valuemd.com  <font color="#da9500"><a href="http://www.valuemd.com/newsletters/spring-2010-newsletter-4.html" target="_blank">http://www.valuemd.com/newsletters/spring-2010-newsletter-4.html</a></font> BY QUOCTHAI DESIGNER.]]></item>
+		
+		<item name="valuemd.com/vbulletin4iaht" src="images/dynamic_site/b4.jpg" thumb="images/dynamic_site/4.jpg"><![CDATA["DESIGNER NEW SKIN BY VBULLETIN4  <font color="#00d7da"><a href="http://www.valuemd.com/vbulletin4iaht/" target="_blank">http://www.valuemd.com/vbulletin4iaht/</a></font> UNDERSTANG STRUCTURE VBULLETIN."]]></item>
+		
+		<item name="MYROOMATEMATCH.COM" src="images/dynamic_site/b5.jpg" thumb="images/dynamic_site/5.jpg"><![CDATA["DESIGNER MYROOMATEMATCH.COM  <font color="#00d7da"><a href="http://www.valuemd.com/vbulletin4iaht/" target="_blank">http://www.valuemd.com/vbulletin4iaht/</a></font> DESIGN AND LAYOUT TAG "TABLE TR TD"."]]></item>
+		
+		<item name="TAMQUOCCHI.COM.VN - OLD VERSION" src="images/dynamic_site/b6.jpg" thumb="images/dynamic_site/6.jpg"><![CDATA["DESIGNER WebGraphic TamQuocChi.com.vn  <font color="#00d7da"><a href="http://www.valuemd.com/vbulletin4iaht/" target="_blank">http://www.valuemd.com/vbulletin4iaht/</a></font> "."]]></item>
+
+	</category>
+</categories>
