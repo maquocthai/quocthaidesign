@@ -1,24 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <categories>
-	<category title="OUR PHOTOS">
+
+	<category title="MY VIDEOS ABOUT DESIGN MULTIMEDIA ONLY ME FOR ALL FROM DESIGN TO FINISH">
+
+        <item name="LACVIET 2008" src="images/video_works/lacviet.flv" thumb="images/video_works/lacviet.jpg">
+            <![CDATA["LACVIET trailer for Advertising - 7 million in 2008 year. Thanks. "]]></item>
+
+        <item name="VIETWILL 2008" src="images/video_works/vietwill.flv" thumb="images/video_works/vietwill.jpg">
+            <![CDATA["VIETWILL trailer for Advertising "]]></item>
+
+        <item name="AU LAC 2008" src="images/video_works/aulac.flv" thumb="images/video_works/aulac.jpg">
+            <![CDATA["Au lac trailer for Advertising "]]></item>
+
+        <item name="CINDY 2008" src="images/video_works/cindy.flv" thumb="images/video_works/cindy.jpg">
+            <![CDATA["CINDY trailer for Advertising "]]></item>
+
+        <item name="OLIVER 2008" src="images/video_works/oliver.flv" thumb="images/video_works/oliver.jpg">
+            <![CDATA["OLIVER trailer for Advertising "]]></item>
+
+        <item name="VIETHUONG 2008 - 24g Business Programe" src="images/video_works/viethuong.flv" thumb="images/video_works/viethuong.jpg">
+            <![CDATA["VIETHUONG trailer for Advertising "]]></item>
+
+        <item name="CHU VIET 2008" src="images/video_works/chuviet.flv" thumb="images/video_works/chuviet.jpg">
+            <![CDATA["CHU VIET chacracter L for Advertising "]]></item>
+
+		<item name="Mar 19, 2008" src="images/video_works/the_earth.flv" thumb="images/video_works/the_earth.jpg">
+            <![CDATA["DEMO DUC KHAI COMPANY"]]></item>
+
+        <item name="Mar 19, 2008" src="images/video_works/duckhai.flv" thumb="images/video_works/duckhai.jpg">
+            <![CDATA["TRAILER DUC KHAI COMPANY"]]></item>
+
+        <item name="Jan 9, 2009" src="images/video_works/hoctienganhnhanh.flv" thumb="images/video_works/hoctienganhnhanh.jpg">
+            <![CDATA["DEMO DUC KHAI COMPANY"]]></item>
+
+        <item name="Demo Jan 8, 2009" src="images/video_works/video4camera.flv" thumb="images/video_works/video4camera.jpg">
+            <![CDATA["DEMO DUC KHAI COMPANY"]]></item>
+
+        <item name="TIETHOCMAU LEQUYDON SCHOOL" src="images/video_works/3.flv" thumb="images/powerpoint/3.jpg">
+            <![CDATA["THIS IS A PRODUCT FOR FILM LE QUY DON SCHOOL . <font color="#ed001414"><a href="http://cid-aa890e7339500c7c.profile.live.com/?sa=572047311" target="_blank">NAME TEACHER : NGUYEN THI TUONG VY - TEACH ENGLISH FOR THIS SCHOOL</a></font>"]]></item>
+
+        <item name="SNACK 2007 - LEARN" src="images/video_works/snack.flv" thumb="images/video_works/snack.jpg">
+            <![CDATA["This is the first video when I'm practicing it gives valuable memories for me."]]></item>
+
+        <item name="HONGHOI 2008 - LEARN" src="images/video_works/honghoi.flv" thumb="images/video_works/honghoi.jpg">
+            <![CDATA["Documentaries filmed introduction to the company."]]></item>
 		
-		<item name="DATA UPDATE LATER" src="images/print_works/b6.jpg" thumb="images/print_works/6.jpg"><![CDATA["LOREM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND TYPESETTING INDUSTRY. <font color="#ed0049"><a href="http://www.flashden.net/user/Codestar" target="_blank">EXTERNAL LINK: LOREM IPSUM HAS BEEN THE INDUSTRY'S STANDARD DUMMY TEXT EVER SINCE THE 1500S</a></font>, WHEN AN UNKNOWN PRINTER TOOK A GALLEY OF TYPE AND SCRAMBLED IT TO MAKE A TYPE SPECIMEN BOOK. IT HAS SURVIVED NOT ONLY FIVE CENTURIES, BUT ALSO THE LEAP INTO ELECTRONIC TYPESETTING, <font color="#95da00"><a href="http://www.flashden.net/user/Codestar" target="_blank">EXTERNAL LINK: REMAINING ESSENTIALLY UNCHANGED</a></font>. IT WAS POPULARISED IN THE 1960S WITH THE RELEASE OF LETRASET SHEETS CONTAINING LOREM IPSUM PASSAGES, AND MORE RECENTLY WITH DESKTOP PUBLISHING SOFTWARE LIKE ALDUS PAGEMAKER INCLUDING VERSIONS OF LOREM IPSUM."]]></item>
-		
-		<item name="DATA UPDATE LATER" src="images/print_works/b7.jpg" thumb="images/print_works/7.jpg"><![CDATA[<font color="#ed0049"><a href="http://www.flashden.net/user/Codestar" target="_blank">THERE ARE MANY VARIATIONS OF PASSAGES OF LOREM IPSUM AVAILABLE</a></font>, BUT THE MAJORITY HAVE SUFFERED ALTERATION IN SOME FORM, BY INJECTED HUMOUR, OR RANDOMISED WORDS WHICH DON'T LOOK EVEN SLIGHTLY BELIEVABLE.]]></item>
-		
-		<item name="DATA UPDATE LATER" src="images/print_works/b8.jpg" thumb="images/print_works/8.jpg"><![CDATA[LOREM IPSUM COMES FROM SECTIONS 1.10.32 AND 1.10.33 OF 'DE FINIBUS BONORUM ET MALORUM <font color="#da9500"><a href="http://www.flashden.net/user/Codestar" target="_blank">(THE EXTREMES OF GOOD AND EVIL)</a></font> BY CICERO, WRITTEN IN 45 BC.]]></item>
-			
 	</category>
 
+    <category title="MY PHOTO IN WORKS">
 
-	<category title="OUR VIDEOS">
-		
-		<item name="DATA UPDATE LATER" src="images/video_works/1.flv" thumb="images/print_works/11.jpg"><![CDATA["LOREM IPSUM IS SIMPLY DUMMY TEXT OF THE PRINTING AND TYPESETTING INDUSTRY. <font color="#ed001414"><a href="http://www.flashden.net/user/Codestar" target="_blank">EXTERNAL LINK: LOREM IPSUM HAS BEEN THE INDUSTRY'S STANDARD DUMMY TEXT EVER SINCE THE 111500S</a></font>, WHEN AN UNKNOWN PRINTER TOOK A GALLEY OF TYPE AND SCRAMBLED IT TO MAKE A TYPE SPECIMEN BOOK. IT HAS SURVIVED NOT ONLY FIVE CENTURIES, BUT ALSO THE LEAP INTO ELECTRONIC TYPESETTING, <font color="#1415da00"><a href="http://www.flashden.net/user/Codestar" target="_blank">EXTERNAL LINK: REMAINING ESSENTIALLY UNCHANGED</a></font>. IT WAS POPULARISED IN THE 1114110S WITH THE RELEASE OF LETRASET SHEETS CONTAINING LOREM IPSUM PASSAGES, AND MORE RECENTLY WITH DESKTOP PUBLISHING SOFTWARE LIKE ALDUS PAGEMAKER INCLUDING VERSIONS OF LOREM IPSUM."]]></item>
-		
-		<item name="TUST+ NETWORK" src="images/video_works/1.flv" thumb="images/print_works/12.jpg"><![CDATA[<font color="#ed001414"><a href="http://www.flashden.net/user/Codestar" target="_blank">THERE ARE MANY VARIATIONS OF PASSAGES OF LOREM IPSUM AVAILABLE</a></font>, BUT THE MAJORITY HAVE SUFFERED ALTERATION IN SOME FORM, BY INJECTED HUMOUR, OR RANDOMISED WORDS WHICH DON'T LOOK EVEN SLIGHTLY BELIEVABLE.]]></item>
-		
-		<item name="TUST+ PSD NETWORK" src="images/video_works/1.flv" thumb="images/print_works/13.jpg"><![CDATA[LOREM IPSUM COMES FROM SECTIONS 11.15.1312 AND 11.15.1313 OF 'DE FINIBUS BONORUM ET MALORUM <font color="#da141500"><a href="http://www.flashden.net/user/Codestar" target="_blank">(THE EXTREMES OF GOOD AND EVIL)</a></font> BY CICERO, WRITTEN IN 1415 BC.]]></item>
-		
-	</category>
+        <item name="BLISS SPORT" src="images/photo_gallery/pingpong01.jpg" thumb="images/photo_gallery/pingpong01m.jpg">
+            <![CDATA["Pingpong Tournament in BLISS-Interactive company on August 1, 2013"]]></item>
+
+        <item name="Singapore Tourism 2013" src="images/photo_gallery/singapore01.jpg"
+              thumb="images/photo_gallery/singapore01m.jpg">
+            <![CDATA["Singapore Tourism with BLISS-Interactive company on May 23, 2013."]]></item>
+
+        <item name="Sea Link City 2013" src="images/photo_gallery/sealink_city01.jpg"
+              thumb="images/photo_gallery/sealink_city01m.jpg">
+            <![CDATA["Reward in trip after five straight weeks continuous overtime. Travel City with those who are selected with BLISS-Interactive company on May 15, 2013."]]>
+        </item>
+
+        <item name="Campodia Tourism 2012" src="images/photo_gallery/campodia2012.jpg"
+              thumb="images/photo_gallery/campodia2012m.jpg">
+            <![CDATA["Campodia Tourism with BLISS-Interactive company on October 30, 2012."]]>
+        </item>
+
+    </category>
 
 </categories>

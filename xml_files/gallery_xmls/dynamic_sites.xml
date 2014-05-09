@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <categories>
 	<category title="OUR FLASH SITES">
-		
-		<!--<item name="BRANDPOWERVIETNAM.COM" src="images/dynamic_site/b1.jpg" thumb="images/dynamic_site/1.jpg"><![CDATA["BRANDPOWERVIETNAM.COM designed by CMS. This is a website made from start to finish . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > Layout HTML + CSS > Programming by XSL, XML by CMS . You can to see</a></font>"]]></item>-->
-		
-		<item name="DU HOC AN DO - VERSION OLD" src="images/dynamic_site/b2.jpg" thumb="images/dynamic_site/2.jpg"><![CDATA[<font color="#ed0049"><a href="http://www.duhocando.net" target="_blank">http://www.duhocando.net designed by CMS. This is a website made from start to finish . </a></font>]]></item>
+
+        <item name="VCOMLAND - 2011 " src="images/dynamic_site/vcomland_l.jpg" thumb="images/dynamic_site/vcomland.jpg"><![CDATA[<font color="#ed0049"></font>]]></item>
+
+        <item name="CHUAHAIQUANG - 2011 " src="images/dynamic_site/chuahaiquang_l.jpg" thumb="images/dynamic_site/chuahaiquang.jpg"><![CDATA[<font color="#ed0049"><a href="" target="_blank">http://www.CHUAHAIQUANG.COM.VN designed by CMS. This is a website made from start to finish . </a></font>]]></item>
+
+        <item name="VIENDONG TELECOM - 2011" src="images/dynamic_site/viendongtelecom_l.jpg" thumb="images/dynamic_site/viendongtelecom.jpg"><![CDATA[<font color="#ed0049"><a href="https://googledrive.com/host/0B39EpG9mMRpac091X1gxYmtVQjg/index.htm" target="_blank">https://googledrive.com/host/0B39EpG9mMRpac091X1gxYmtVQjg/index.htm designed by CMS. This is a website made from start to finish . </a></font>]]></item>
+
+        <item name="BRANDPOWERVIETNAM.COM" src="images/dynamic_site/b1.jpg" thumb="images/dynamic_site/1.jpg"><![CDATA["BRANDPOWERVIETNAM.COM designed by CMS. This is a website made from start to finish . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > Layout HTML + CSS > Programming by XSL, XML by CMS . You can to see</a></font>"]]></item>
+
+        <item name="DU HOC AN DO - VERSION OLD" src="images/dynamic_site/b2.jpg" thumb="images/dynamic_site/2.jpg"><![CDATA[<font color="#ed0049"><a href="http://www.duhocando.net" target="_blank">http://www.duhocando.net designed by CMS. This is a website made from start to finish . </a></font>]]></item>
 		
 		<item name="VALUEMD.COM NEWSLETTER" src="images/dynamic_site/b3.jpg" thumb="images/dynamic_site/3.jpg"><![CDATA[Design NEWSLETTER for valuemd.com  <font color="#da9500"><a href="http://www.valuemd.com/newsletters/spring-2010-newsletter-4.html" target="_blank">http://www.valuemd.com/newsletters/spring-2010-newsletter-4.html</a></font> BY QUOCTHAI DESIGNER.]]></item>
 		
@@ -13,6 +19,13 @@
 		<item name="MYROOMATEMATCH.COM" src="images/dynamic_site/b5.jpg" thumb="images/dynamic_site/5.jpg"><![CDATA["DESIGNER MYROOMATEMATCH.COM  <font color="#00d7da"><a href="http://www.valuemd.com/vbulletin4iaht/" target="_blank">http://www.valuemd.com/vbulletin4iaht/</a></font> DESIGN AND LAYOUT TAG "TABLE TR TD"."]]></item>
 		
 		<item name="TAMQUOCCHI.COM.VN - OLD VERSION" src="images/dynamic_site/b6.jpg" thumb="images/dynamic_site/6.jpg"><![CDATA["DESIGNER WebGraphic TamQuocChi.com.vn  <font color="#00d7da"><a href="http://www.valuemd.com/vbulletin4iaht/" target="_blank">http://www.valuemd.com/vbulletin4iaht/</a></font> "."]]></item>
+		
+		<item name="aba.com.vn" src="images/dynamic_site/aba_l.jpg" thumb="images/dynamic_site/aba.jpg"><![CDATA["DESIGNER WebGraphic ABA.COM.VN and code FrontEnd all in 2010 year  <font color="#00d7da"><a href="https://googledrive.com/host/0B39EpG9mMRpaOWZuaWx1c28tVzA/index.htm" target="_blank">http://www.aba.com.vn</a></font> "."]]></item>
+
+        <item name="http://trungtamhoanggia.com/" src="images/dynamic_site/hoanggia_l.jpg" thumb="images/dynamic_site/hoanggia.jpg"><![CDATA["DESIGNER WebGraphic TRUNGTAMHOANGGIA.COM and code FrontEnd all in 2011 year "."]]></item>
+
+        <item name="http://anttel.com.vn/" src="images/dynamic_site/anttel_l.jpg" thumb="images/dynamic_site/anttel.jpg"><![CDATA["DESIGNER WebGraphic http://anttel.com.vn/ and code FrontEnd all in 2011 year "."]]></item>
 
 	</category>
+
 </categories>

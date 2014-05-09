@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+    <category title="PROJECT BLISS">
+
+        <item name="NIVEA-FOR MEN 2011" src="images/bliss/niveaformen.jpg" thumb="images/bliss/niveaformen_thumb.jpg"><![CDATA["NIVEA-FOR MEN 2011 - 2012 ]]></item>
+
+        <item name="NIVEA - Winter Check 2011" src="images/bliss/nivea_winter_check.jpg" thumb="images/bliss/nivea_winter_check_thumb.jpg"><![CDATA["NIVEA serial from 2012 to 2013 : ]]></item>
+
+        <item name="FAQ - Winter Check 2011" src="images/bliss/faq_winter_check.jpg" thumb="images/bliss/faq_winter_check_thumb.jpg"><![CDATA["Winter Check 2011]]></item>
+
+        <item name="NIVEA-ADVANTAGE 2011" src="images/bliss/nivea_advantage.jpg" thumb="images/bliss/nivea_advantage_thumb.jpg"><![CDATA["NIVEA-ADVANTAGE 2011 ]]></item>
+
+        <item name="TRUVO- startthedialog.be" src="images/bliss/truvo_2013.jpg" thumb="images/bliss/truvo_2013_thumb.jpg">
+            <![CDATA[" http://startthedialog.be/?lang=nl#Home Animation Transition Banner Truvo .  Check Ok: http://jsfiddle.net/maquocthai/4FAYh/6/ or http://jsfiddle.net/maquocthai/nnpmU/ "]]></item>
+
+        <item name="TOYOTA- Destocking-SearchEngineTool" src="images/bliss/toyota_destocking.jpg" thumb="images/bliss/toyota_thumb.jpg">
+            <![CDATA[" http://www.happiness-brussels.com/preview/toyota/Destocking-SearchEngineTool/ for TOYOTA .  Check Ok: Use jquery.livequery.js for choose and Animation hover Product. ( http://jsfiddle.net/maquocthai/38svn/1/ ) Use raphael.js and icarousel.js for Product ( http://jsfiddle.net/maquocthai/9uJGc/ ) "]]></item>
+
+        <item name="Hybrid platform 2012 - TOYOTA" src="images/javascript/animation_tittle_banner.jpg" thumb="images/javascript/animation_tittle_banner_thumb.jpg">
+            <![CDATA["Use animate js for text tittle on banner site in Jquery - TOYOTA .  Check Ok: ( http://jsfiddle.net/maquocthai/kzpY2/ Preview : http://www.happiness-brussels.com/preview/toyota/hybride.be/html/ "]]></item>
+
+        <item name="GREENBERRY - HU VAN NU 2012" src="images/bliss/greenberry.jpg" thumb="images/bliss/greenberry_thumb.jpg"><![CDATA["GREENBERRY serial 2012 - HU VAN NU. Preview : https://husentimentmeter.nl/ ]]></item>
+
+    </category>
+
+</categories>

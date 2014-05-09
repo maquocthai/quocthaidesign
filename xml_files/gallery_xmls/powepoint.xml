@@ -1,59 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <categories>
-	<category title="OUR PRINT WORKS">
-		
-		<item name="COSMETIC" src="images/powerpoint/b1.jpg" thumb="images/powerpoint/1.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">Demo</font>
+    <category title="OUR PRINT WORKS">
+
+        <item name="COSMETIC" src="images/powerpoint/b1.jpg" thumb="images/powerpoint/1.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">Demo</font>
 ]]></item>
-		<item name="COSMETIC PAGE 2" src="images/powerpoint/b2.jpg" thumb="images/powerpoint/2.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">Demo</font>
+        <item name="COSMETIC PAGE 2" src="images/powerpoint/b2.jpg" thumb="images/powerpoint/2.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">Demo</font>
 ]]></item>
 
-		<item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b4.jpg" thumb="images/powerpoint/4.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-		
-		<item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b5.jpg" thumb="images/powerpoint/5.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-		
-		<item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b6.jpg" thumb="images/powerpoint/6.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
+        <item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b4.jpg" thumb="images/powerpoint/4.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
 ]]></item>
 
-		<item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b3.jpg" thumb="images/powerpoint/3.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
+        <item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b5.jpg" thumb="images/powerpoint/5.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
 ]]></item>
 
-		<item name="HOINGOKYLUC" src="images/powerpoint/b7.jpg" thumb="images/powerpoint/7.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-	
-	<item name="VIETKINGS" src="images/powerpoint/b8.jpg" thumb="images/powerpoint/8.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
+        <item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b6.jpg" thumb="images/powerpoint/6.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
 ]]></item>
 
-	<item name="VIETKINGS" src="images/powerpoint/b9.jpg" thumb="images/powerpoint/9.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-	
-	<item name="VIETKINGS" src="images/powerpoint/b10.jpg" thumb="images/powerpoint/10.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
+        <item name="HOCTIENGANHNHANH.COM.VN" src="images/powerpoint/b3.jpg" thumb="images/powerpoint/3.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
 ]]></item>
 
-	<item name="VIETKINGS DULICH" src="images/powerpoint/b11.jpg" thumb="images/powerpoint/11.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
+        <item name="VIETWILLS" src="images/powerpoint/b17.jpg" thumb="images/powerpoint/17.jpg"><![CDATA["<font color="#ed0049">use for present</font>
 ]]></item>
 
-	<item name="VIETKINGS" src="images/powerpoint/b12.jpg" thumb="images/powerpoint/12.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
+        <item name="VIETKINGS KYLUC14" src="images/powerpoint/b18.jpg" thumb="images/powerpoint/18.jpg"><![CDATA["<font color="#ed0049">use for present</font>
 ]]></item>
 
-	<item name="VIETKINGS" src="images/powerpoint/b13.jpg" thumb="images/powerpoint/13.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-
-	<item name="VIETKINGS" src="images/powerpoint/b14.jpg" thumb="images/powerpoint/14.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-
-	<item name="VIETKINGS" src="images/powerpoint/b15.jpg" thumb="images/powerpoint/15.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-
-	<item name="VIETKINGS" src="images/powerpoint/b16.jpg" thumb="images/powerpoint/16.jpg"><![CDATA["This product for student as thesis <font color="#ed0049">use for present</font>
-]]></item>
-
-	<item name="VIETWILLS" src="images/powerpoint/b17.jpg" thumb="images/powerpoint/17.jpg"><![CDATA["<font color="#ed0049">use for present</font>
-]]></item>
-
-	<item name="VIETKINGS KYLUC14" src="images/powerpoint/b18.jpg" thumb="images/powerpoint/18.jpg"><![CDATA["<font color="#ed0049">use for present</font>
-]]></item>
-
-	</category>
+    </category>
 </categories>

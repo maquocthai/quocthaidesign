@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+	<category title="MENU">
+		
+		<item name="GOC PHO QUAN" src="images/menu/1big_gocphoquan.jpg" thumb="images/menu/1gocphoquan.jpg"><![CDATA["This product for advertising for Goc Pho Quan - Thu Duc 2009 <font color="#ed0049">Banner Flash for Advertising</font>
+]]></item>
+
+        <item name="GOC PHO QUAN" src="images/menu/2big_gocphoquan.jpg" thumb="images/menu/2gocphoquan.jpg"><![CDATA["This product for advertising for Goc Pho Quan - Thu Duc 2009 <font color="#ed0049">Banner Flash for Advertising</font>
+]]></item>
+
+        <item name="GOC PHO QUAN" src="images/menu/3big_gocphoquan.jpg" thumb="images/menu/3gocphoquan.jpg"><![CDATA["This product for advertising for Goc Pho Quan - Thu Duc 2009 <font color="#ed0049">Banner Flash for Advertising</font>
+]]></item>
+		
+	</category>
+</categories>

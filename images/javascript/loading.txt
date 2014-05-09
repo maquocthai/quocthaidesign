@@ -1,0 +1,11 @@
+http://jsfiddle.net/clickthelink/Uwcuz/
+
+> Loading Ajax action HTML, 
+
+http://jsfiddle.net/gh/get/jquery/1.8/zalun/jsFiddleGithubDemo/tree/master/Demo/
+
+Comment chung: 
+url: ''
+data:
+method: | type
+onSuccess: | success

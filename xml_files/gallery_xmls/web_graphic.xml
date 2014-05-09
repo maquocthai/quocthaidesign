@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <categories>
 	<category title="WEB GRAPHIC">
+
+        <item name="TUTHIENMINHTAM - 2011" src="images/web_graphic/tuthienminhtam_l.jpg" thumb="images/web_graphic/tuthienminhtam.jpg"><![CDATA["DESIGNER WebGraphic TuThienMinhTam in 2011 year "."]]></item>
+
+        <item name="TUTHIENMINHTAM V2 - 2011" src="images/web_graphic/tuthienminhtam_l2.jpg" thumb="images/web_graphic/tuthienminhtam2.jpg"><![CDATA["DESIGNER WebGraphic TuThienMinhTam in 2011 year "."]]></item>
 	
 		<item name="HOCTIENGANHNHANH.COM.VN HOME" src="images/web_graphic/B1.jpg" thumb="images/web_graphic/1.jpg"><![CDATA["Designer web graphic for my company . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > Layout HTML + CSS > Programming by XSL, XML by CMS . You can to see</a></font>"]]></item>
 		
@@ -18,9 +22,9 @@
 		
 		<item name="ELILINK HARDWARE" src="images/web_graphic/B8.jpg" thumb="images/web_graphic/8.jpg"><![CDATA["Designer web graphic for my company . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see</a></font>"]]></item>
 		
-		<!--<item name="THIENANPHU.com 2006 YEAR" src="images/web_graphic/B9.jpg" thumb="images/web_graphic/9.jpg"><![CDATA["Designer web graphic for my company . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see</a></font>"]]></item>
-		
-		<item name="TIENTHINH.COM 2007 YEAR" src="images/web_graphic/B10.jpg" thumb="images/web_graphic/10.jpg"><![CDATA["Designer web graphic and layout for Tien Thinh company from 2007 year. This product not good reason layout by table tag. <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>-->
+		<item name="THIENANPHU.com 2006 YEAR" src="images/web_graphic/B9.jpg" thumb="images/web_graphic/9.jpg"><![CDATA["Designer web graphic for my company . <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see</a></font>"]]></item>
+
+		<item name="TIENTHINH.COM 2007 YEAR" src="images/web_graphic/B10.jpg" thumb="images/web_graphic/10.jpg"><![CDATA["Designer web graphic and layout for Tien Thinh company from 2007 year. This product not good reason layout by table tag. <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>
 		
 		<item name="www.ias.org.vn 2007 YEAR" src="images/web_graphic/B11.jpg" thumb="images/web_graphic/11.jpg"><![CDATA["Designer web graphic and layout for Thai Quang company from 2007 year.  <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>
 		
@@ -34,15 +38,8 @@
 		
 		<item name="RATE HOUSE 2007B YEAR " src="images/web_graphic/B16.jpg" thumb="images/web_graphic/16.jpg"><![CDATA["Designer web graphic and layout for Thai Quang company from 2007 year.  <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>
 		
-		<item name="NHADATVINA" src="images/web_graphic/B18.jpg" thumb="images/web_graphic/18.jpg"><![CDATA["Designer web graphic and layout for Thai Quang company from 2007 year.  <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>
-		
-		<item name="NHADATVINA 8525" src="images/web_graphic/B19.jpg" thumb="images/web_graphic/19.jpg"><![CDATA["Designer web graphic and layout for Thai Quang company from 2007 year.  <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>
-		
-		<!--<item name="tiepthiquangcaocuaban.vn" src="images/web_graphic/B17.jpg" thumb="images/web_graphic/17.jpg"><![CDATA["Designer web graphic and layout for Thai Quang company from 2007 year.  <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>-->
-		
-		
-		
-		<!--<item name="TIENTHINH COMPANY" src="images/web_graphic/B20.jpg" thumb="images/web_graphic/20.jpg"><![CDATA["Designer web graphic and layout for Thai Quang company from 2007 year.  <font color="#ed0049"><a href="http://brandpowervietnam.com" target="_blank">Web Design > . You can to see, more information later. </a></font>"]]></item>-->
+
+
 					
 	</category>
 </categories>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+
+    <category title="AJAX IN JSFIDDLE">
+
+        <item name="JSFIDDLE in JSFIDDLE 01" src="images/javascript/ajax/jsfiddleinjsfiddle01.jpg"
+              thumb="images/javascript/ajax/jsfiddleinjsfiddle_thumb.jpg">
+            <![CDATA["Content anything in JSFiddle .  Link 01 : ( http://jsfiddle.net/maquocthai/pkmvD/"]]></item>
+
+        <item name="JSFIDDLE in JSFIDDLE 02" src="images/javascript/ajax/jsfiddleinjsfiddle02.jpg"
+              thumb="images/javascript/ajax/jsfiddleinjsfiddle_thumb.jpg">
+            <![CDATA["Load JSFIDDLE 01 in JSFIDDLE 02 .  Link 02 : ( http://jsfiddle.net/deborah/Ln95K/31/ "]]></item>
+
+
+    </category>
+
+    <category title="JSON JQUERY">
+
+        <item name="JSON AJAX - HTML - JSONP" src="images/javascript/ajax/json_ajax.jpg"
+              thumb="images/javascript/ajax/jsfiddleinjsfiddle_thumb.jpg">
+            <![CDATA["Focus : JSON AJAX - HTML - JSONP .  Link 01 : ( http://jsfiddle.net/NUNWG/ "]]></item>
+
+
+    </category>
+
+    <category title="HTML">
+
+        <item name="HTML" src="images/javascript/ajax/html.jpg" thumb="images/javascript/ajax/jsfiddleinjsfiddle_thumb.jpg">
+            <![CDATA["HTML Option.  Link 01 : ( http://jsfiddle.net/L6bJ2/6/ "]]></item>
+
+    </category>
+
+
+</categories>

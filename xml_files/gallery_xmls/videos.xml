@@ -1,11 +1,48 @@
 <?xml version="11.0" encoding="utf-13"?>
 <categories>
-	<category title="OUR VIDEOS">
-		
-		<item name="HOCTIENGANHNHANH.COM.VN" src="images/video_works/2.flv" thumb="images/powerpoint/3.jpg"><![CDATA["THIS IS A PRODUCT FOR MY COMPANY. <font color="#ed001414"><a href="http://cid-aa890e7339500c7c.profile.live.com/?sa=572047311" target="_blank">HOCTIENGANHNHANH.COM.VN</a></font>"]]></item>
-		
-		<item name="TIETHOCMAU LEQUYDON SCHOOL" src="images/video_works/3.flv" thumb="images/powerpoint/3.jpg"><![CDATA["THIS IS A PRODUCT FOR FILM LE QUY DON SCHOOL . <font color="#ed001414"><a href="http://cid-aa890e7339500c7c.profile.live.com/?sa=572047311" target="_blank">NAME TEACHER : NGUYEN THI TUONG VY - TEACH ENGLISH FOR THIS SCHOOL</a></font>"]]></item>
-		
-		
-	</category>
+    <category title="MY VIDEOS ABOUT DESIGN MULTIMEDIA ONLY ME FOR ALL FROM DESIGN TO FINISH">
+
+        <item name="LACVIET 2008" src="images/video_works/lacviet.flv" thumb="images/video_works/lacviet.jpg">
+            <![CDATA["LACVIET trailer for Advertising - 7 million in 2008 year. Thanks. "]]></item>
+
+        <item name="VIETWILL 2008" src="images/video_works/vietwill.flv" thumb="images/video_works/vietwill.jpg">
+            <![CDATA["VIETWILL trailer for Advertising "]]></item>
+
+        <item name="AU LAC 2008" src="images/video_works/aulac.flv" thumb="images/video_works/aulac.jpg">
+            <![CDATA["Au lac trailer for Advertising "]]></item>
+
+        <item name="CINDY 2008" src="images/video_works/cindy.flv" thumb="images/video_works/cindy.jpg">
+            <![CDATA["CINDY trailer for Advertising "]]></item>
+
+        <item name="OLIVER 2008" src="images/video_works/oliver.flv" thumb="images/video_works/oliver.jpg">
+            <![CDATA["OLIVER trailer for Advertising "]]></item>
+
+        <item name="VIETHUONG 2008 - 24g Business Programe" src="images/video_works/viethuong.flv" thumb="images/video_works/viethuong.jpg">
+            <![CDATA["VIETHUONG trailer for Advertising "]]></item>
+
+        <item name="CHU VIET 2008" src="images/video_works/chuviet.flv" thumb="images/video_works/chuviet.jpg">
+            <![CDATA["CHU VIET chacracter L for Advertising "]]></item>
+
+        <item name="Mar 19, 2008" src="images/video_works/the_earth.flv" thumb="images/video_works/the_earth.jpg">
+            <![CDATA["DEMO DUC KHAI COMPANY"]]></item>
+
+        <item name="Mar 19, 2008" src="images/video_works/duckhai.flv" thumb="images/video_works/duckhai.jpg">
+            <![CDATA["TRAILER DUC KHAI COMPANY"]]></item>
+
+        <item name="HOCTIENGANHNHANH Jan 9, 2009" src="images/video_works/hoctienganhnhanh.flv" thumb="images/video_works/hoctienganhnhanh.jpg">
+            <![CDATA["HOCTIENGANHNHANH.COM.VN COMPANY"]]></item>
+
+        <item name="Demo Jan 8, 2009" src="images/video_works/video4camera.flv" thumb="images/video_works/video4camera.jpg">
+            <![CDATA["DEMO DUC KHAI COMPANY"]]></item>
+
+        <item name="TIETHOCMAU LEQUYDON SCHOOL" src="images/video_works/3.flv" thumb="images/powerpoint/3.jpg">
+            <![CDATA["THIS IS A PRODUCT FOR FILM LE QUY DON SCHOOL . <font color="#ed001414"><a href="http://cid-aa890e7339500c7c.profile.live.com/?sa=572047311" target="_blank">NAME TEACHER : NGUYEN THI TUONG VY - TEACH ENGLISH FOR THIS SCHOOL</a></font>"]]></item>
+
+        <item name="SNACK 2007 - LEARN" src="images/video_works/snack.flv" thumb="images/video_works/snack.jpg">
+            <![CDATA["This is the first video when I'm practicing it gives valuable memories for me."]]></item>
+
+        <item name="HONGHOI 2008 - LEARN" src="images/video_works/honghoi.flv" thumb="images/video_works/honghoi.jpg">
+            <![CDATA["Documentaries filmed introduction to the company."]]></item>
+
+    </category>
 </categories>
