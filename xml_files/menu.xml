@@ -51,11 +51,21 @@
         <!--</item>-->
 
     <!--</item>-->
+    <item name="CSS" src="gallery_page.swf" xml_file="xml_files/css.xml" />
+
     <item name="JAVASCRIPT">
 
         <item name="USED FOR PROJECT" src="gallery_page.swf" xml_file="xml_files/javascript/slider_library.xml"/>
 
         <item name="AJAX" src="gallery_page.swf" xml_file="xml_files/javascript/ajax.xml"/>
+
+    </item>
+
+    <item name="SOFTWARE">
+
+        <item name="SOFT FOR PROJECT" src="gallery_page.swf" xml_file="xml_files/software/software.xml"/>
+
+        <item name="PLUGIN" src="gallery_page.swf" xml_file="xml_files/software/plugin.xml"/>
 
     </item>
 

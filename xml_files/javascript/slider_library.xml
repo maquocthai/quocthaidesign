@@ -63,7 +63,7 @@
     <category title="TOOL LIBRARY">
 
         <item name="GITHUB https://github.com/maquocthai" src="images/javascript/github.jpg" thumb="images/javascript/github_thumb.jpg">
-            <![CDATA["https://github.com/maquocthai . Use GITHUB FOR LIBRARY javascript and SVNGIT for Social Coding. Tool edit on Github: http://prose.io/  "]]></item>
+            <![CDATA["https://github.com/maquocthai . Use GITHUB FOR LIBRARY javascript and SVNGIT for Social Coding. Tool edit on Github: http://prose.io/ . FIT SVN GIT: C:Progarm File (x86) / Git / etc / gitconfig (file)=> sslVerify = false (in Wordpad save file txt change type file by rename extend File )"]]></item>
 
         <item name="JSFIDDLE http://jsfiddle.net/maquocthai" src="images/javascript/jsfiddle.jpg" thumb="images/javascript/jsfiddle_thumb.jpg">
             <![CDATA["http://jsfiddle.net/maquocthai . Use JSFIDDLE FOR detect Javascript and library for use."]]></item>
@@ -123,8 +123,6 @@
 
         <item name="PARALLAX - BANNER SIMPLE" src="images/javascript/parallax/parallax_banner_simple.jpg" thumb="images/javascript/parallax/parallax_banner_simple_thumb.jpg">
             <![CDATA["MOUSEPORT - BASIC. Check Ok: http://jsfiddle.net/maquocthai/xud9c/  "]]></item>
-
-
 
     </category>
 
